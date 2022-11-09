@@ -27,9 +27,9 @@ public class Ejemplo4 {
         //F           or          //F         >>>>> F
         if (ciudad.equals("Loja") || ciudad.equals("Machala") || 
                 ciudad.equals("Guayaquil")) {
-            System.out.printf("%s\n", "acceso correcto");
+            System.out.printf("%s\n", "Contraseña correcta");
         } else {
-            System.out.printf("%s\n", "acceso incorrecto");
+            System.out.printf("%s\n", "Contraseña incorrecta");
         }
 
     }
